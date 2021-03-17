@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Shivam Soni](mailto:shivam.soni@owasp.org)
+* [Ashish Labade](mailto:ashish.labade@owasp.org)
