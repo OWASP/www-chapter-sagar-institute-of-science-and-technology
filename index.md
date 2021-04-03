@@ -11,7 +11,7 @@ region: Asia
 OWASP Sagar Institute of Science and Technology (SISTec) Student Chapter was founded to promote Secure Application Development, By Organizing Meetups, Webinars and trainings.     
 
 ## Participation
-You join our meetup group to get updates about our events.  
+You can join our meetup group to get updates about our events.  
 
 ## About OWASP
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
