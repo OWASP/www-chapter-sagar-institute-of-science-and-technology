@@ -2,7 +2,7 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-sagar-sistec/)
+* [Meetup](https://www.meetup.com/owasp-sistec/)
 * [Twitter](#)
 
 
