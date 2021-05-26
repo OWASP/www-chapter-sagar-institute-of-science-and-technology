@@ -1,9 +1,9 @@
 ---
 
 layout: col-sidebar
-title: OWASP Sagar Institute of Science and Technology (SISTec) - Student Chapter
+title: OWASP Sagar Institute of Science and Technology (SISTec)-Student Chapter
 altfooter: true
-meetup-group: owasp-sistec
+meetup-group: owasp-sagar-sistec
 region: Asia
 country: india
 
