@@ -3,9 +3,11 @@
 layout: col-sidebar
 title: OWASP Sagar Institute of Science and Technology (SISTec)-Student Chapter
 altfooter: true
+site_side: true
 meetup-group: owasp-sagar-sistec
 region: Asia
-country: india
+country: India 
+postal-code: 462042
 
 ---
 
@@ -23,29 +25,12 @@ To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agr
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Check our Upcoming Meetup Events:
+Next Meeting/Event(s)
+---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+OWASP  Sagar Institute of Science and Technology (SISTec) Chapter meetings are posted on our MeetUp Page:
 
-<script type='text/javascript'>
-  $(function(){
-    $(".timeclass").hover(function() {
-      utc_str = $(this).text();
-      ndx = utc_str.indexOf(':');
-      st_hour_str = utc_str.substring(0, ndx);
-      st_min_str = utc_str.substring(ndx + 1, ndx + 3);
-      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0);
-      start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
+Please visit <a href="http://www.meetup.com/owasp-sagar-sistec">OWASP Sagar Institute of Science and Technology (SISTec)</a>  MeetUp site for our Chapter event information.
 
-      ndx = utc_str.lastIndexOf(':');
-      end_hour_str = utc_str.substring(ndx - 2, ndx - 1);
-      end_min_str = utc_str.substring(ndx + 1, ndx + 3);
-      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0);
-      end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
-      popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET);
-      $(this).prop('title', popstr);
-    });
-  });
 
-  
-</script>
