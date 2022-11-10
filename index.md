@@ -7,7 +7,7 @@ site_side: true
 meetup-group: owasp-sagar-sistec
 region: Asia
 country: India 
-postal-code: 462042
+postal-code: 462036
 
 ---
 
