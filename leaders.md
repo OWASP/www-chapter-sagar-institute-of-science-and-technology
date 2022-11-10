@@ -1,4 +1,4 @@
 ### Leaders
-* [Aadish Jain](mailto:)
+* [Aadish Jain](mailto:aadish.jain@owasp.org)
 * [Bhavana Gupta](mailto:)
 * [Kartik Kanthariya](mailto:)
