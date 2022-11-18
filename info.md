@@ -3,7 +3,7 @@
 * [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 
 * ### Social Links
-* [Meetup](https://www.meetup.com/owasp-sistec/)
+* [Meetup](https://www.meetup.com/owasp-sagar-institute-of-science-and-technology-chapter/)
 * [Twitter](#)
 
 
