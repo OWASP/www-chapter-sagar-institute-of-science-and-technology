@@ -31,6 +31,6 @@ Next Meeting/Event(s)
 
 OWASP  Sagar Institute of Science and Technology (SISTec) Chapter meetings are posted on our MeetUp Page:
 
-Please visit <a href="http://www.meetup.com/owasp-sagar-sistec">OWASP Sagar Institute of Science and Technology (SISTec)</a>  MeetUp site for our Chapter event information.
+Please visit <a href="https://www.meetup.com/owasp-sagar-institute-of-science-and-technology-chapter/">OWASP Sagar Institute of Science and Technology (SISTec)</a>  MeetUp site for our Chapter event information.
 
 
